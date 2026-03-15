@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו ריהוט משרדי איכותי במחיר טוב: כסאות ארגונומיים, שולחנות חשמליים ומערכות אחסון חכמות. מור אופיס - פתרונות יוקרתיים לפרודוקטיביות מקסימלית.
+
+### אודות
+https://example.com/about
+מור אופיס מתמחה בעיצוב חללי עבודה בריאים ומרשימים. למדו על הגישה שלנו לשילוב מושלם בין יוקרה, נוחות ואיכות ללא פשרות בכל פריט ריהוט.
+
+### פתרונות
+https://example.com/solutions
+מחדרי ישיבות מרשימים ועד משרדים ביתיים: דלפקי קבלה, ריהוט לחדרי ישיבות, מערכות אחסון ופתרונות עבודה דינמיים. גלו את הקולקציה המלאה שלנו.
+
+### צור קשר
+https://example.com/contact
+מוכנים לשדרג את חלל העבודה? צרו קשר עם מור אופיס לייעוץ מקצועי והתאמת פתרונות ריהוט משרדי איכותי במחיר טוב בדיוק לפי הצרכים שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
